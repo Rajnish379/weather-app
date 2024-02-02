@@ -3,7 +3,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
-
+Install React Icons: npm install react-icons --save
+npm i tailwind-merge clsx
+npm i react-query
+npm i axios
+npm i date-fns
+npm i jotai
 ```bash
 npm run dev
 # or
