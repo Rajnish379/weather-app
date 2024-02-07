@@ -30,6 +30,7 @@ export default function ForecastWeatherDetail(props: ForecastWeatherDetailProps)
     } = props;
   return (
     // Use Ctrl+D to select the opening and closing tag of Container at the same time. This is shortcut for column selection
+    // Holding Alt key and tapping on multiple lines of text can also do column selection
     <Container className='gap-4'>
         {/* left */}
         <section className='flex gap-4 items-center px-4'>
